@@ -1,5 +1,7 @@
 # Sal
 
+Sal is no longer under active development, and you should consider alternatives such as [Munkireport](https://github.com/munkireport/munkireport-php).
+
 [![CircleCI](https://circleci.com/gh/salopensource/sal.svg?style=svg)](https://circleci.com/gh/salopensource/sal)
 
 Sal is a multi-tenanted reporting dashboard for [Munki](https://github.com/munki/munki/) with the ability to display information from [Facter](https://puppet.com/docs/puppet/latest/facter.html). It has a plugin system allowing you to easily build widgets to display your custom information from Facter, Grains, Munki's [conditional items](https://github.com/munki/munki/wiki/Conditional-Items) etc.
